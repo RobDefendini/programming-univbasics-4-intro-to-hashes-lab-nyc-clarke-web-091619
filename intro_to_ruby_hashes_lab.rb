@@ -19,17 +19,13 @@ id_generator = {
 end
 
 def my_hash_creator(key, value)
- hash_hashing = {
+ hashblahblah = {
    key => value
  }
   # return a hash that includes the key and value parameters passed into this method
 end
 
 def read_from_hash(hash, key)
-    hash1 = {
-    key => pair
-  }
-  hash1
   
   # return the correct value using the hash and key parameters
 end
