@@ -19,6 +19,10 @@ id_generator = {
 end
 
 def my_hash_creator(key, value)
+   hash1 = {
+    key => pair
+  }
+  hash1
 my_hash_creator = {
   name: 'Grace Hopper'
 }
@@ -27,10 +31,10 @@ my_hash_creator[name]
 end
 
 def read_from_hash(hash, key)
-    hash = {
+    hash1 = {
     key => pair
   }
-  hash
+  hash1
   
   # return the correct value using the hash and key parameters
 end
