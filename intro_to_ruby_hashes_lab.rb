@@ -19,7 +19,9 @@ id_generator = {
 end
 
 def my_hash_creator(key, value)
-key
+key = {
+  
+}
 
 
 
